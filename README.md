@@ -1,4 +1,4 @@
-# MI_topics_refs.
+ MI_topics_refs.
  Milestone 1 – Topic & Initial References
 
 Topic
@@ -20,6 +20,3 @@ AI-generated Questions
 4. How do self-report vs. objective measures affect findings?  
 5. What are potential confounds in current studies?
 
-AI Audit Pass
-- Verified 3 claims against Smith et al., 2021 and Brown et al., 2019  
-- Removed 1 unsupported AI claim about exercise intensity
